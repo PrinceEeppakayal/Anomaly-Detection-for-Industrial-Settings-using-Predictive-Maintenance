@@ -32,7 +32,7 @@ Anomaly classes used in the supervised workflow:
 ## Project Structure
 
 ```text
-.
+anomaly-detection-using-predictive-maintenance
 ├── config/
 │   └── email_config.json
 ├── data/
@@ -189,6 +189,12 @@ python scripts/train_model_with_epochs.py
 
 - `docs/ML_Model_Explanation.md` contains a deeper explanation of model design and evaluation concepts.
 - The notebook in `notebooks/poc_anomaly_dht11.ipynb` is available for experimentation, while the supervised scripts are the primary runnable pipeline in this workspace.
+
+## Author
+
+- Prince Eppakayal
+- Khushi Khandari
+- Akash Shukla
 
 ## License
 
