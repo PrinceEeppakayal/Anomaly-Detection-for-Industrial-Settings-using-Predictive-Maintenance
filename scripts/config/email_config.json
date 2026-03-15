@@ -1,0 +1,16 @@
+{
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "your-email@gmail.com",
+    "sender_password": "your-app-password",
+    "recipient_emails": [
+        "recipient1@example.com",
+        "recipient2@example.com"
+    ],
+    "enable_notifications": true,
+    "notification_cooldown": {
+        "CRITICAL": 300,
+        "WARNING": 900,
+        "INFO": 1800
+    }
+}

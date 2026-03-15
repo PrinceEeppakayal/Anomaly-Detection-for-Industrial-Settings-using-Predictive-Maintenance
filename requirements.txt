@@ -1,0 +1,22 @@
+# Streamlit Web App Requirements
+# Install with: pip install -r requirements.txt
+
+# Core web framework
+streamlit>=1.28.0
+
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Machine learning
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Interactive plotting
+plotly>=5.15.0
+
+# Email notifications (optional)
+# Already using Python standard library (smtplib)
+
+# Additional utilities
+python-dateutil>=2.8.0
