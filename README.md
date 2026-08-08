@@ -29,6 +29,10 @@ Anomaly classes used in the supervised workflow:
 - `cooling_failure`
 - `equipment_failure`
 
+## Demonstration Video
+
+https://github.com/user-attachments/assets/292c2a15-2420-4e44-bf02-58ede19f8af2
+
 ## Project Structure
 
 ```text
@@ -137,7 +141,7 @@ If not, it can fall back to training a new model from synthetic simulator data.
 - `scripts/email_notifier.py`
   - Optional SMTP email alert system
 
-## Email Alerts (Optional)
+## Email Alerts 
 
 Configure SMTP credentials in `config/email_config.json`.
 
